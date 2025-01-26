@@ -32,4 +32,4 @@ const changeBG = ()=>{
 		}
 	pick++;
 };
-setInterval(changeBG,8000);
+setInterval(changeBG,5000);
